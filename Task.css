@@ -1,0 +1,44 @@
+.table {
+    height: "auto";
+    width: "auto";
+    margin-top: 40px;
+    margin-left: 30px;
+    justify-content: center;
+    background-color: rgb(11, 12, 12);
+  }
+  
+  h3 {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .tr {
+    text-align: center;
+    color: white;
+  }
+  
+  .tbd {
+    background-color: white;
+    color: black;
+    text-align: center;
+  
+  }
+  
+  .box {
+    height: 8cm;
+    width: 8cm;
+    background-color: rgb(222, 236, 242);
+    margin-top: 80px;
+    margin-left: 5cm;
+  }
+  
+  .head {
+    margin-top: 10px;
+    align-items: center;
+  }
+  
+  .heading {
+    margin-top: 5rem;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+  }

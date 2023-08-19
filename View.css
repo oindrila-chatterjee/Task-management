@@ -1,0 +1,76 @@
+.tb {
+    block-size:50vh;
+    inline-size: 70vw;
+    background-color: white;
+    margin-block-start: 7rem;
+    /* box-shadow: 7px 7px rgb(196, 190, 190); */
+    border-radius: 15px;
+  
+  
+  }
+  
+  .tableHead {
+    inline-size: auto;
+    block-size: auto;
+    text-align: center;
+    color: white;
+    background: black;
+    font-style: bold;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .tablebody{
+    font-style: bold;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  
+  .trow {
+    font-size: 30px;
+    border-radius: 10px;
+    font-weight: bold;
+  }
+  
+  .button {
+    text-align: center;
+    background-color: #007bff;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    /* display: inline; */
+    border-radius: 5px;
+    font-size: 20px;
+  }
+  
+  #one {
+    font-size: 20px;
+    
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  #two {
+    font-size: 20px;
+    /* font-weight: bold; */
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  #three {
+    font-size: 20px;
+    /* font-weight: bold; */
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  #four {
+    font-size: 20px;
+    /* font-weight: bold; */
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  #five {
+    font-size: 20px;
+    /* font-weight: bold; */
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  
+  .bhead {
+    text-align: center;
+  }

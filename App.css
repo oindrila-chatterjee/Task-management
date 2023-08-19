@@ -1,0 +1,72 @@
+.tb {
+  height: 50vh;
+  width: 70vw;
+  background-color: white;
+  margin-top: 7rem;
+  /* box-shadow: 7px 7px rgb(196, 190, 190); */
+  border-radius: 15px;
+
+
+}
+
+.tableHead {
+  width: auto;
+  height: auto;
+  text-align: center;
+  color: white;
+  background: black;
+  font-style: bold;
+  font-family: 'Times New Roman', Times, serif;
+
+
+
+}
+
+.trow {
+  font-size: 30px;
+  border-radius: 10px;
+}
+
+.button {
+  text-align: center;
+  background-color: black;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+  display: inline;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+#one {
+  font-size: 20px;
+  font-weight: bold; 
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#two {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#three {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#four {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#five {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.bhead {
+  text-align: center;
+}

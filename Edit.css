@@ -1,0 +1,65 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    block-size: 80vh;
+  }
+  
+  .card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    inline-size: 400px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  h2 {
+    margin-block-end: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+  
+  label {
+    margin-block-end: 5px;
+  }
+  
+  input,
+  textarea {
+    margin-block-end: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  /* Additional CSS for equal spacing between rows */
+  form > div {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  /* Additional CSS for aligning fields to the right */
+  label {
+    text-align: auto;
+  }
+  
+  input,
+  textarea {
+    margin-inline-start: left;
+  }
